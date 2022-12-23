@@ -18,32 +18,32 @@
 
 =============================================================
 <h4>Structure of APP</h4>
-  DAO <=> Services <=> Controllers <br><br>
+ <h5> DAO <=> Services <=> Controllers <br><br>
 =============================================================
 
 <h4>Technologies</h4>
 <ul>
-  <li>Java 11</li>
-  <li>Git</li>
-  <li>Apache Maven</li>
-  <li>Apache Tomcat</li>
-  <li>Apache Log4j 2</li>
-  <li>MySQL</li>
-  <li>JDBC</li>
-  <li>Javax Servlet</li>
-  <li>JSP</li>
-  <li>JSTL</li>
-  <li>HTML/CSS</li>
-  <li>Checkstyle plugin</li>
-  <li>Project Lombok</li>
+  <li> <h5>Java 11</h5> </li>
+  <li> <h5>Git</h5> </li>
+  <li> <h5>Apache Maven</h5> </li>
+  <li> <h5>Apache Tomcat</h5> </li>
+  <li> <h5>Apache Log4j 2</h5> </li>
+  <li> <h5>MySQL</h5> </li>
+  <li> <h5>JDBC</h5> </li>
+  <li> <h5>Javax Servlet</h5> </li>
+  <li> <h5>JSP</h5> </li>
+  <li> <h5>JSTL</h5> </li>
+  <li> <h5>HTML/CSS</li>
+  <li> <h5>Checkstyle plugin</h5> </li>
+  <li> <h5>Project Lombok</h5> </li>
 </ul>
 
 =============================================================
 
 <h4>How to start the program</h4>
 <ol>
-  <li> Clone the project from GitHub
-  <li> Use /resources/init_db.sql to create a database
-  <li> Configure /util/ConnectionUtil.java with your own URL, username, password and JDBC driver
-  <li> Configure Tomcat server (IMPORTANT 9 version)
+  <li> <h5>Clone the project from GitHub</h5> </li>
+  <li> <h5>Use /resources/init_db.sql to create a database</h5> </li>
+  <li> <h5>Configure /util/ConnectionUtil.java with your own URL, username, password and JDBC driver</h5> </li>
+  <li> <h5>Configure Tomcat server (IMPORTANT 9 version)</h5> </li>
 </ol>
