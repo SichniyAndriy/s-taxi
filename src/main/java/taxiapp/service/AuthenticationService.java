@@ -1,6 +1,6 @@
-package taxi.service;
+package taxiapp.service;
 
-import taxi.model.Driver;
+import taxiapp.model.Driver;
 
 public interface AuthenticationService {
     Driver login(String login, String password);

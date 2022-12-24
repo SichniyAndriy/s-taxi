@@ -1,6 +1,6 @@
-package taxi.dao;
+package taxiapp.dao;
 
-import taxi.model.Manufacturer;
+import taxiapp.model.Manufacturer;
 
 public interface ManufacturerDao extends GenericDao<Manufacturer> {
 }

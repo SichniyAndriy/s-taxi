@@ -1,11 +1,11 @@
-package taxi.controller.driver;
+package taxiapp.controller.driver;
 
 import java.io.IOException;
 import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
-import taxi.lib.Injector;
-import taxi.service.DriverService;
+import taxiapp.lib.Injector;
+import taxiapp.service.DriverService;
 
 public class DeleteDriverController extends HttpServlet {
     private static final Injector injector = Injector.getInstance("taxi");

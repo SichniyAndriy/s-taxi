@@ -1,4 +1,4 @@
-package taxi.model;
+package taxiapp.model;
 
 import java.util.Objects;
 

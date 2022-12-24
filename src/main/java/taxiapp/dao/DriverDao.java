@@ -1,7 +1,7 @@
-package taxi.dao;
+package taxiapp.dao;
 
 import java.util.Optional;
-import taxi.model.Driver;
+import taxiapp.model.Driver;
 
 public interface DriverDao extends GenericDao<Driver> {
     Optional<Driver> findByLogin(String login);

@@ -1,4 +1,4 @@
-package taxi.controller.driver;
+package taxiapp.controller.driver;
 
 import java.io.IOException;
 import java.util.List;
@@ -6,9 +6,9 @@ import javax.servlet.ServletException;
 import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
-import taxi.lib.Injector;
-import taxi.model.Driver;
-import taxi.service.DriverService;
+import taxiapp.lib.Injector;
+import taxiapp.model.Driver;
+import taxiapp.service.DriverService;
 
 public class GetAllDriversController extends HttpServlet {
     private static final Injector injector = Injector.getInstance("taxi");
