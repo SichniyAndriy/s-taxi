@@ -1,12 +1,12 @@
-package taxi.service;
+package taxiapp.service;
 
 import java.util.List;
 import java.util.NoSuchElementException;
 import java.util.Optional;
-import taxi.dao.DriverDao;
-import taxi.lib.Inject;
-import taxi.lib.Service;
-import taxi.model.Driver;
+import taxiapp.dao.DriverDao;
+import taxiapp.lib.Inject;
+import taxiapp.lib.Service;
+import taxiapp.model.Driver;
 
 @Service
 public class DriverServiceImpl implements DriverService {

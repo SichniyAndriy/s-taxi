@@ -1,8 +1,8 @@
-package taxi.service;
+package taxiapp.service;
 
-import taxi.lib.Inject;
-import taxi.lib.Service;
-import taxi.model.Driver;
+import taxiapp.lib.Inject;
+import taxiapp.lib.Service;
+import taxiapp.model.Driver;
 
 @Service
 public class AuthenticationServiceImpl implements AuthenticationService {
