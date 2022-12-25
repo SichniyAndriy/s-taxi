@@ -1,9 +1,9 @@
 <img height=100 src="https://github.com/SichniyAndriy/s-taxi/blob/main/src/main/resources/picture.jpg" >
 
-<h2>Description:</h2>
-<h3>A simle student's web application that support authentication, registration and other CRUD operation</h3>
+<h4><i>Description</i></h4>
+<h5>A simle student's web application that support authentication, registration and other CRUD operation</h4>
 
-<h4>Features:</h4>
+<h4><i>Features</i></h4>
 <ul>
   <li> <h5>Registration driver</h5> </li>
   <li> <h5>Authentication like a driver</h5> </li>
@@ -17,11 +17,11 @@
 </ul>
 
 =============================================================
-<h4>Structure of APP</h4>
+<h4><i>Structure of APP</i></h4>
  <h5> DAO <=> Services <=> Controllers <br><br>
 =============================================================
 
-<h4>Technologies</h4>
+<h4><i>Technologies</i></h4>
 <ul>
   <li> <h5>Java 11</h5> </li>
   <li> <h5>Git</h5> </li>
@@ -40,7 +40,7 @@
 
 =============================================================
 
-<h4>How to start the program</h4>
+<h4><i>How to start the program</i></h4>
 <ol>
   <li> <h5>Clone the project from GitHub</h5> </li>
   <li> <h5>Use /resources/init_db.sql to create a database</h5> </li>
