@@ -27,7 +27,6 @@
   <li> <h5>Git</h5> </li>
   <li> <h5>Apache Maven</h5> </li>
   <li> <h5>Apache Tomcat</h5> </li>
-  <li> <h5>Apache Log4j 2</h5> </li>
   <li> <h5>MySQL</h5> </li>
   <li> <h5>JDBC</h5> </li>
   <li> <h5>Javax Servlet</h5> </li>
